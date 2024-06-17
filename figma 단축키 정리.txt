@@ -14,3 +14,5 @@ figma 단축키 정리
 6. 모든 레이어 닫기: alt + L 
 
 7. 여러 레이어 열기: ctrl+ A -> Enter
+
+8. 가이드 라인 생성: shift + R
